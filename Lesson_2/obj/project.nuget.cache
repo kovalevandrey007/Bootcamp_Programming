@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6cbV/IW4n7dR0yyxy+YtzlAqsN1DFqJGyjU59Ljmp4nJ4RAkxsHzMptwXIjrE/I5rOJ2U+/KDgwETNVh+1/8vQ==",
+  "dgSpecHash": "ivaFLdWkzWBXAhnCVxUbCFuTYAL5YAt3BJB7AfVA8S+VyHQTfhES30eCwUmEaotu4tZRMYv97olDsv9UzDec3Q==",
   "success": true,
   "projectFilePath": "/home/Andy-PC/Рабочий стол/Bootcamp_Programming/Lesson_2/Lesson_2.csproj",
-  "expectedPackageFiles": [
-    "/home/Andy-PC/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/home/Andy-PC/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/home/Andy-PC/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.12/microsoft.netcore.app.host.linux-x64.6.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
